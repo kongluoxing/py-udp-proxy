@@ -1,0 +1,5 @@
+* ABOUT
+This is a full-featured version of py-simple-udp-proxy, it support multiple udp map, and aim to high concurrency.
+
+* Libraries
+Use gevent for coroutine
